@@ -51,19 +51,19 @@ For students who are interested in joining our research group as a Master’s st
 
 - **Jintao Chen**, Shengye Pang, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **IEEE TSC 2024. \[CCF-A\]**
 
-- **Jintao Chen**, Fan Wang, Shengye Pang, Siwei Tan, Mingshuai Chen, Tiancheng Zhao, Meng Xi and Jianwei Yin. [UniGM: Unifying Multiple Pre-trained Graph Models via Adaptive Knowledge Aggregation](https://dl.acm.org/doi/10.1145/3664647.3681018) **ACM MM 2024. \[CCF-A\] **
+- **Jintao Chen**, Fan Wang, Shengye Pang, Siwei Tan, Mingshuai Chen, Tiancheng Zhao, Meng Xi and Jianwei Yin. [UniGM: Unifying Multiple Pre-trained Graph Models via Adaptive Knowledge Aggregation](https://dl.acm.org/doi/10.1145/3664647.3681018) **ACM MM 2024. \[CCF-A\]**
 
 - **Jintao Chen**, Jianwei Yin, Shuiguang Deng, Tiancheng Zhao and Meng Xi. [Service Regulation: Modeling and Recognition](https://link.springer.com/chapter/10.1007/978-3-031-20984-0_6) **ICSOC 2022. \[CCF-B\]**
 
-- **Jintao Chen**, Jianwei Yin, Meng Xi, Siwei Tan, Yongna Wei and Shuiguang Deng. [Service pattern modeling and simulation: a case study of rural Taobao](https://ieeexplore.ieee.org/document/9284607) **IEEE SCC 2020. \[CCF-C\] **
+- **Jintao Chen**, Jianwei Yin, Meng Xi, Siwei Tan, Yongna Wei and Shuiguang Deng. [Service pattern modeling and simulation: a case study of rural Taobao](https://ieeexplore.ieee.org/document/9284607) **IEEE SCC 2020. \[CCF-C\]**
 
-- **Jintao Chen, Fan Wang, Shengye Pang, Mingshuai Chen, Meng Xi, Tiancheng Zhao and Jianwei Yin. [A Privacy Policy Text Compliance Reasoning Framework with Large Language Models for Healthcare Services](https://fiction-zju.github.io/papers/TST2024.pdf) **TST 2024. \[中科院1区\]**
+- **Jintao Chen**, Fan Wang, Shengye Pang, Mingshuai Chen, Meng Xi, Tiancheng Zhao and Jianwei Yin. [A Privacy Policy Text Compliance Reasoning Framework with Large Language Models for Healthcare Services](https://fiction-zju.github.io/papers/TST2024.pdf) **TST 2024. \[中科院1区\]**
 
 - **Jintao Chen**, Jianwei Yin, Meng Xi, Siwei Tan, Yongna Wei and Shuiguang Deng. [A rule-based service pattern convergence framework for crossover service](https://ieeexplore.ieee.org/abstract/document/9283708) ICSS 2020.
 
-- Jun Xia, Lirong Wu, **Jintao Chen**, Bozhen Hu and Stan Z.Li. [Simgrace: A simple framework for graph contrastive learning without data augmentation](https://dl.acm.org/doi/10.1145/3485447.3512156) ** WWW 2022. \[CCF-A\] **
+- Jun Xia, Lirong Wu, **Jintao Chen**, Bozhen Hu and Stan Z.Li. [Simgrace: A simple framework for graph contrastive learning without data augmentation](https://dl.acm.org/doi/10.1145/3485447.3512156) **WWW 2022. \[CCF-A\]**
 
-- Jun Xia, Lirong Wu, Ge Wang, Jintao Chen and Stan Z.Li. [ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning](https://proceedings.mlr.press/v162/xia22b/xia22b.pdf) ** ICML 2022. \[CCF-A\] **
+- Jun Xia, Lirong Wu, Ge Wang, **Jintao Chen** and Stan Z.Li. [ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning](https://proceedings.mlr.press/v162/xia22b/xia22b.pdf) **ICML 2022. \[CCF-A\]**
 
 - Meng Xi, Jianwei Yin, **Jintao Chen**, Ying Li and Shuiguang Deng. [Quantitative assessment of service pattern: framework, language, and metrics](https://ieeexplore.ieee.org/document/9462522)  **IEEE TSC 2021. \[CCF-A\]**
 
@@ -73,7 +73,7 @@ For students who are interested in joining our research group as a Master’s st
 
 - Fan Wang, Chaochao Chen, Weiming Liu, Mingye Lei, **Jintao Chen**, Yanchao Tan, Xiaolin Zheng and Jianwei Yin. DR-VAE: Debiased and Representation-enhanced Variational Antoencoder for Collaborative Recommendation **AAAI 2025. \[CCF-A\]**
 
-- Siwei Tan, Liqiang Lu, Debin Xiang, Tianyao Chu, Congliang Lang, Jintao Chen, Xing Hu and Jianwei Yin. HornBro: Homotopy-like Method for Automated Quantum Program Repair **FSE 2025. \[CCF-A\]**
+- Siwei Tan, Liqiang Lu, Debin Xiang, Tianyao Chu, Congliang Lang, **Jintao Chen**, Xing Hu and Jianwei Yin. HornBro: Homotopy-like Method for Automated Quantum Program Repair **FSE 2025. \[CCF-A\]**
 
 - Shengye Pang, Yi Li, Zhen Qin, Xinkui Zhao, **Jintao Chen**, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **ACM TAAS 2024. \[CCF-B\]**
 
