@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-In 2025, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor Jianwei Yin and co-supervised by Professor Shuiguang Deng and Professor Mingshuai Chen. My primary research focuses on service computing, service regulation and GNN.
+In 2025, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor Jianwei Yin and co-supervised by Professor Shuiguang Deng and Professor Mingshuai Chen. My primary research focuses on service computing, service regulation and AI4Regulation.
 
 For students who are interested in joining our research group as a Master’s student or intern, please feel free to contact me via email: chenjintao \[AT\]  zju [dot] edu [dot] cn.
 
