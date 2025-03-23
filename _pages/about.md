@@ -67,7 +67,7 @@ For students who are interested in joining our research group as a Master’s st
 
 - Meng Xi, Jianwei Yin, **Jintao Chen**, Ying Li and Shuiguang Deng. [Quantitative assessment of service pattern: framework, language, and metrics](https://ieeexplore.ieee.org/document/9462522)  **IEEE TSC 2021. \[CCF-A\]**
 
-- Shengye Pang, Xinkui Zhao, Shuyi Yu, **Jintao Chen**, Shuiguang Deng, and Jianwei Yin. TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction. **IEEE TSC 2025. \[CCF-A\]**
+- Shengye Pang, Xinkui Zhao, Shuyi Yu, **Jintao Chen**, Shuiguang Deng, and Jianwei Yin. [TrustPay: A Dual-Layer Blockchain-based Framework for Trusted Service Transaction](https://www.computer.org/csdl/journal/sc/5555/01/10857412/23VC6bSMjQs) **IEEE TSC 2025. \[CCF-A\]**
 
 - Fan Wang, Lianyong Qi, Weiming Liu, Bowen Yu, **Jintao Chen** and Yanwei Xu. [Inter-and Intra- Similarity Preserved Counterfactual Incentive Effect Estimation for Recommendation Systems](https://dl.acm.org/doi/10.1145/3722104) **ACM TOIS 2025. \[CCF-A\]**
 
