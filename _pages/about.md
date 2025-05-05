@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-In 2025, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor Jianwei Yin and co-supervised by Professor Shuiguang Deng and Professor Mingshuai Chen. My primary research focuses on service computing, service regulation and AI4Regulation.
+In 2025, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor <a href="https://mypage.zju.edu.cn/0001038/">Jianwei Yin</a> and co-supervised by Professor <a href="https://mypage.zju.edu.cn/0001038/">Shuiguang Deng</a> and Professor <a href="https://mypage.zju.edu.cn/0001038/">Mingshuai Chen</a>. My primary research focuses on service computing, service regulation and AI4Regulation.
 
 For students who are interested in joining our research group as a Master’s student or intern, please feel free to contact me via email: chenjintao \[AT\]  zju [dot] edu [dot] cn.
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One regular paper has been accepted by **International Joint Conferences on Artificial Intelligence(IJCAI) - AI4Tech Track**.
 - *2025.03*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**.
 - *2025.03*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Information Systems(TOIS)**.
 - *2025.01*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM International Conference on the Foundations of Software Engineering(FSE)**.
@@ -32,17 +33,16 @@ For students who are interested in joining our research group as a Master’s st
 - *2024.08*: &nbsp;🎉🎉 One regular paper has been accepted by **IEEE Transactions on Services Computing(TSC)**.
 - *2024.07*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM International Conference on Multimedia(MM)**.
 - *2024.06*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Autonomous and Adaptive Systems(TAAS)**.
-- *2024.03*: &nbsp;🎉🎉 One regular paper has been accepted by **Tsinghua Science and Technology(TST)**.
 - *2024.05*: &nbsp;🎉🎉 One U.S. patent has been granted.
-- *2024.03*: &nbsp;🎉🎉 One regular paper has been accepted by **Tsinghua Science and Technology(TST)**.
-- *2024.02*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Sensor Networks(TOSN)**.
-- *2023.03*: &nbsp;🎉🎉 A book titled **"Convergence in Crossover Service"** has been published by Springer.
-- *2022.09*: &nbsp;🎉🎉 One regular paper has been accepted by **International Conference on Service Oriented Computing(ICSOC)**.
-- *2022.05*: &nbsp;🎉🎉 One regular paper has been accepted by **International Conference on Machine Learning(ICML)**.
-- *2022.01*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Web Conference(WWW)**.
-- *2021.06*: &nbsp;🎉🎉 One regular paper has been accepted by **IEEE Transactions on Services Computing(TSC)**.
-- *2020.07*: &nbsp;🎉🎉 Two regular paper has been accepted by **IEEE International Conference on Services Computing (SCC)**.
-
+<!-- - *2024.03*: &nbsp;🎉🎉 One regular paper has been accepted by **Tsinghua Science and Technology(TST)**. -->
+<!-- - *2024.03*: &nbsp;🎉🎉 One regular paper has been accepted by **Tsinghua Science and Technology(TST)**. -->
+<!-- - *2024.02*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Sensor Networks(TOSN)**. -->
+<!-- - *2023.03*: &nbsp;🎉🎉 A book titled **"Convergence in Crossover Service"** has been published by Springer. -->
+<!-- - *2022.09*: &nbsp;🎉🎉 One regular paper has been accepted by **International Conference on Service Oriented Computing(ICSOC)**. -->
+<!-- - *2022.05*: &nbsp;🎉🎉 One regular paper has been accepted by **International Conference on Machine Learning(ICML)**. -->
+<!-- - *2022.01*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Web Conference(WWW)**. -->
+<!-- - *2021.06*: &nbsp;🎉🎉 One regular paper has been accepted by **IEEE Transactions on Services Computing(TSC)**. -->
+<!-- - *2020.07*: &nbsp;🎉🎉 Two regular paper has been accepted by **IEEE International Conference on Services Computing (SCC)**. -->
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
