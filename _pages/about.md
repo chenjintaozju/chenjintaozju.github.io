@@ -31,7 +31,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 One regular paper has been accepted by **International Joint Conferences on Artificial Intelligence(IJCAI) - AI4Tech Track**.
-- *2025.03*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**.
+<!-- - *2025.03*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**. -->
 - *2025.03*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Information Systems(TOIS)**.
 - *2025.01*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM International Conference on the Foundations of Software Engineering(FSE)**.
 - *2025.01*: &nbsp;🎉🎉 One regular paper has been accepted by **IEEE Transactions on Services Computing(TSC)**.
@@ -100,4 +100,7 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 - *2019.06 - 2025.03*, Ph.D. in Computer Science and Technology, College of Computer science and technology, Zhejiang University. 
 - *2015.09 - 2019.06*, B.Eng. in Internet of Things, Central South University. 
 
+# 📚 Academic Services
+-  ICWS 2024 Session Chair
+-  Reviewers: NeurIPS dataset track 2024, WWW 2025, MM 2025 
 
