@@ -24,7 +24,7 @@ For students who are interested in joining our research group as a Master’s st
 <!--
 <a href="https://www.hitwebcounter.com" target="_blank">
 -->
-You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?page=20743970&style=0006&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />  to my homepage. Thanks for your attention!
+
 
 
 <span class='anchor' id='news'></span>
@@ -104,3 +104,4 @@ You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?p
 -  ICWS 2024 Session Chair
 -  Reviewers: NeurIPS dataset track 2024, WWW 2025, MM 2025 
 
+You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?page=20743970&style=0006&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />  to my homepage. Thanks for your attention!
