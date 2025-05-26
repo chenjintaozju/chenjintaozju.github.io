@@ -30,7 +30,7 @@ For students who are interested in joining our research group as a Master’s st
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 The paltform Jianmu is awarded the Innovation Achievement Award by the Pilot Software Engineering Schools Association**.
+- *2025.05*: &nbsp;🎉🎉 The platform Jianmu is awarded the Innovation Achievement Award by the Pilot Software Engineering Schools Association**.
 - *2025.04*: &nbsp;🎉🎉 One regular paper has been accepted by **International Joint Conferences on Artificial Intelligence(IJCAI) - AI4Tech Track**.
 <!-- - *2025.03*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**. -->
 - *2025.03*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Information Systems(TOIS)**.
