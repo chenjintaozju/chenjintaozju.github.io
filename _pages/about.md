@@ -102,6 +102,7 @@ For students who are interested in joining our research group as a Master’s st
 - *2015.09 - 2019.06*, B.Eng. in Internet of Things, Central South University. 
 
 # 📚 Academic Services
+-  Guest editor of the Journal of Cloud Computing
 -  ICWS 2024 Session Chair
 -  Reviewers: NeurIPS dataset track 2024, WWW 2025, MM 2025 
 
