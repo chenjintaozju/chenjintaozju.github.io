@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am currently an Assistant Professor at Zhejiang University.
 In 2025, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor <a href="https://mypage.zju.edu.cn/0001038/">Jianwei Yin</a> and co-supervised by Professor <a href="https://mypage.zju.edu.cn/0001038/">Shuiguang Deng</a> and Professor <a href="https://mypage.zju.edu.cn/0001038/">Mingshuai Chen</a>. My primary research focuses on service computing, service regulation and AI4Regulation.
 
 For students who are interested in joining our research group as a Master’s student or intern, please feel free to contact me via email: chenjintao \[AT\]  zju [dot] edu [dot] cn.
