@@ -31,13 +31,14 @@ For students who are interested in joining our research group as a Master’s st
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Two regular papers have been accepted by **the Association for the Advancement of Artificial Intelligence(AAAI)**.
 - *2025.05*: &nbsp;🎉🎉 The platform Jianmu has been awarded the **Top Ten Key Software Technology Achievements Award** by **the Pilot Software Engineering Schools Association**.
 - *2025.04*: &nbsp;🎉🎉 One regular paper has been accepted by **International Joint Conferences on Artificial Intelligence(IJCAI) - AI4Tech Track**.
 <!-- - *2025.03*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**. -->
 - *2025.03*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Information Systems(TOIS)**.
 - *2025.01*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM International Conference on the Foundations of Software Engineering(FSE)**.
 - *2025.01*: &nbsp;🎉🎉 One regular paper has been accepted by **IEEE Transactions on Services Computing(TSC)**.
-- *2024.12*: &nbsp;🎉🎉 One regular paper has been accepted by **AAAI Conference on Artificial Intelligence(AAAI)**.
+- *2024.12*: &nbsp;🎉🎉 One regular paper has been accepted by **the Association for the Advancement of Artificial Intelligence(AAAI)**.
 - *2024.08*: &nbsp;🎉🎉 One regular paper has been accepted by **IEEE Transactions on Services Computing(TSC)**.
 - *2024.07*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM International Conference on Multimedia(MM)**.
 - *2024.06*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Autonomous and Adaptive Systems(TAAS)**.
