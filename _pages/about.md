@@ -31,6 +31,7 @@ For students who are interested in joining our research group as a Master’s st
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Two papers have been accepted by **the Annual Meeting of the Association for Computational Linguistics(ACL)**.
 - *2026.01*: &nbsp;🎉🎉 One regular paper has been accepted by **the International Conference on Learning Representations(ICLR)**.
 - *2026.01*: &nbsp;🎉🎉 One regular paper has been accepted by **IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP)**.
 - *2025.11*: &nbsp;🎉🎉 Two regular papers have been accepted by **the Association for the Advancement of Artificial Intelligence(AAAI)**.
@@ -40,11 +41,11 @@ For students who are interested in joining our research group as a Master’s st
 - *2025.03*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Information Systems(TOIS)**.
 - *2025.01*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM International Conference on the Foundations of Software Engineering(FSE)**.
 - *2025.01*: &nbsp;🎉🎉 One regular paper has been accepted by **IEEE Transactions on Services Computing(TSC)**.
-- *2024.12*: &nbsp;🎉🎉 One regular paper has been accepted by **the Association for the Advancement of Artificial Intelligence(AAAI)**.
-- *2024.08*: &nbsp;🎉🎉 One regular paper has been accepted by **IEEE Transactions on Services Computing(TSC)**.
-- *2024.07*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM International Conference on Multimedia(MM)**.
-- *2024.06*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Autonomous and Adaptive Systems(TAAS)**.
-- *2024.05*: &nbsp;🎉🎉 One U.S. patent has been granted.
+<!-- - *2024.12*: &nbsp;🎉🎉 One regular paper has been accepted by **the Association for the Advancement of Artificial Intelligence(AAAI)**. -->
+<!-- - *2024.08*: &nbsp;🎉🎉 One regular paper has been accepted by **IEEE Transactions on Services Computing(TSC)**. -->
+<!-- - *2024.07*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM International Conference on Multimedia(MM)**. -->
+<!-- - *2024.06*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Autonomous and Adaptive Systems(TAAS)**. -->
+<!-- - *2024.05*: &nbsp;🎉🎉 One U.S. patent has been granted. -->
 <!-- - *2024.03*: &nbsp;🎉🎉 One regular paper has been accepted by **Tsinghua Science and Technology(TST)**. -->
 <!-- - *2024.03*: &nbsp;🎉🎉 One regular paper has been accepted by **Tsinghua Science and Technology(TST)**. -->
 <!-- - *2024.02*: &nbsp;🎉🎉 One regular paper has been accepted by **ACM Transactions on Sensor Networks(TOSN)**. -->
