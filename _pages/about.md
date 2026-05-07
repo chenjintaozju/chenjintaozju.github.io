@@ -31,8 +31,9 @@ For students who are interested in joining our research group as a Master’s st
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Two papers have been accepted by **International Conference on Machine Learning(ICML)**.
 - *2026.04*: &nbsp;🎉🎉 Two papers have been accepted by **the Annual Meeting of the Association for Computational Linguistics(ACL)**.
-- *2026.01*: &nbsp;🎉🎉 One regular paper has been accepted by **the International Conference on Learning Representations(ICLR)**.
+- *2026.01*: &nbsp;🎉🎉 One regular paper has been accepted by **International Conference on Learning Representations(ICLR)**.
 - *2026.01*: &nbsp;🎉🎉 One regular paper has been accepted by **IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP)**.
 - *2025.11*: &nbsp;🎉🎉 Two regular papers have been accepted by **the Association for the Advancement of Artificial Intelligence(AAAI)**.
 - *2025.05*: &nbsp;🎉🎉 The platform Jianmu has been awarded the **Top Ten Key Software Technology Achievements Award** by **the Pilot Software Engineering Schools Association**.
